@@ -1,57 +1,71 @@
 # Hi 👋, I'm Anurag Choudhary
 
-### B.Tech CSE Student | Full Stack Developer | Problem Solver
+## 🚀 Full Stack Developer | MERN Stack Enthusiast | AI/ML Learner | Problem Solver
 
-* 🎓 Computer Science Student at NIT Bhopal
-* 💻 Passionate about MERN Stack Development
-* 🚀 Building Real-World Projects for SDE Roles
-* 📚 Solving DSA problems regularly
-* 🎯 Preparing for Product-Based Company Placements
+🎓 B.Tech CSE Student at NIT Bhopal
+💻 Passionate about building scalable web applications and intelligent AI-powered systems
+🤖 Exploring Artificial Intelligence, Machine Learning
+📚 Strong interest in Data Structures, Algorithms & System Design
+🎯 Preparing for SDE Roles in Product-Based Companies
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
 
-### Languages
+I love building projects that solve real-world problems and create meaningful user experiences.
 
-JavaScript | Java | C++ | Python
+My focus is on Full Stack Development using the MERN Stack along with Artificial Intelligence and Machine Learning to build smart, impactful applications.
 
-### Frontend
+I enjoy working on:
 
-React.js | HTML | CSS | Tailwind CSS | Bootstrap
+* Full Stack Web Applications
+* AI/ML-Based Recommendation Systems
+* Resume & Job Recommendation Platforms
+* Real-Time API-Based Applications
+* Authentication & Secure Backend Systems
+* Performance Optimization & Clean UI Design
 
-### Backend
+---
 
-Node.js | Express.js
+# 🛠 Tech Stack
 
-### Database
+## 💻 Languages
+
+JavaScript | Java | C++ | Python | SQL
+
+## 🤖 AI / Machine Learning
+
+Machine Learning Basics | Data Preprocessing | Model Training | Recommendation Systems | Resume Analysis Systems | NLP Fundamentals | Scikit-learn | Pandas | NumPy
+
+## 🎨 Frontend Development
+
+React.js | HTML | CSS | Tailwind CSS | Bootstrap | Redux
+
+## ⚙ Backend Development
+
+Node.js | Express.js | REST APIs | JWT Authentication
+
+## 🗄 Database
 
 MongoDB | MySQL
 
-### Tools
+## 🔧 Tools & Platforms
 
-Git | GitHub | Postman | VS Code
-
----
-
-## 📌 Featured Projects
-
-### 📚 Book Store App
-
-Full Stack MERN project with authentication, cart system, and admin panel.
-
-### 🚗 Car Rental System
-
-Online vehicle booking platform with real-time availability.
-
-### 🌦 Weather Application
-
-Live weather forecasting using API integration.
+Git | GitHub | Postman | VS Code | MongoDB Atlas | Render | Vercel | Netlify | Jupyter Notebook
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-LinkedIn: your-linkedin-link
+---
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+# 📈 GitHub Goals
+
+✔ Strong Open Source Presence
+✔ Production-Level Projects
+✔ AI + Full Stack Integration Projects
+
+---
+
+
+And I’m working on all four every single day 🚀
